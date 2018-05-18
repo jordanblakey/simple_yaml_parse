@@ -1,0 +1,9 @@
+{
+  "name": "_yaml-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  }
+}
